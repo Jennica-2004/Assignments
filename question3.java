@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class question3 {
     public static void main(String[] args) {
         boolean flag=true;
         Scanner sc = new Scanner(System.in);
