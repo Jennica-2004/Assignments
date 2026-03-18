@@ -3,4 +3,5 @@ Instrution to run the java code:
 - then run "java filename"
 - For example,
      javac question1.java
-     java question1
+  
+     java question
